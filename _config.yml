@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "oskarjurbaniak@gmail.com"
+  email            : "mailto:oskarjurbaniak@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ojurbaniak"
+  github           : "https://github.com/OJUrbaniak"
   google_plus      :
   keybase          :
-  instagram        : "oskarjurbaniak"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "oskar-urbaniak-977623170"
+  linkedin         : "https://www.linkedin.com/in/oskar-urbaniak-977623170/"
   orcid            : 
   pinterest        :
   soundcloud       :
