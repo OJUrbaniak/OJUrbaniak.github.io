@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Using ML for the categorical classification of Reddit comments (NLP)"
+excerpt: "A Python script created for my BSc Computer Science dissertation which classifies Reddit comments to subreddits using one of 3 self-trained ML models.<br/><img src='/images/venn_diag_1.png'>"
 collection: portfolio
 ---
 
